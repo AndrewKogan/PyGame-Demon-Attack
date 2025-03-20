@@ -1,0 +1,5 @@
+You must click on the devils to gain score. If a devil stacks itself on top of you or you walk off the edge, you lose. The devil's speed depends on the difficulty you selected and the devil will walk towards you at all times. He may spawn on either the left or right side of the screen, but he won't spawn in the middle. At the end, your final score is shown. 
+
+I had no partner and this game was completed entirely by myself.
+
+Movement of character can be fidgety at times but is usually unnoticeable. I couldn't figure out why the character would sometimes go flying, but I limited the damage that it causes to the game by not letting the character walk out of the screen.
